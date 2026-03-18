@@ -1,2 +1,2 @@
-# 2Create.github.io
+# 2Create.web
 website for my game
